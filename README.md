@@ -11,4 +11,5 @@ Welcome to the "tic-tac-toe" GitHub repository! This project is a classic tic-ta
 <br>Whether you're looking to sharpen your coding skills or just want to play a quick game of tic-tac-toe, this project is a great place to start. Feel free to clone the repository and play around with the code. We welcome any contributions, suggestions, or bug reports.
 <br>
 <br>Enjoy playing!
-<br>![Tic-tac-toe - Profile 1 - Microsoft_ Edge 2024-04-25 13-35-20 (1)](https://github.com/darshan-p-2508/Tic-Tac-Toe/assets/140430203/359fcfe2-1e66-4213-b09e-e0ca23cfe99f)
+<br>
+<br>![Tic-tac-toe](https://github.com/darshan-p-2508/Tic-Tac-Toe/assets/140430203/e95d7ff2-16be-4801-995b-f22666227ee9)
