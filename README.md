@@ -6,7 +6,7 @@ Welcome to the "tic-tac-toe" GitHub repository! This project is a classic tic-ta
   <li>Simple and intuitive gameplay</li>
   <li>Automatic detection of the winner</li>
   <li>Option to restart the game</li>
-  </ui>
-<br>App version of the game available for Android devices.</br>
-<br>Whether you're looking to sharpen your coding skills or just want to play a quick game of tic-tac-toe, this project is a great place to start. Feel free to clone the repository and play around with the code. We welcome any contributions, suggestions, or bug reports.</br>
-<br>Enjoy playing!</br>
+</ui>
+App version of the game available for Android devices.
+Whether you're looking to sharpen your coding skills or just want to play a quick game of tic-tac-toe, this project is a great place to start. Feel free to clone the repository and play around with the code. We welcome any contributions, suggestions, or bug reports.
+Enjoy playing!
