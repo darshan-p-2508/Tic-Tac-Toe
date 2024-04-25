@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Welcome to the "tic-tac-toe" GitHub repository! This project is a classic tic-tac-toe game created using HTML, CSS, and JavaScript. The game allows two players to take turns marking X and O on a 3x3 grid. The first player to get three of their marks in a row (up, down, across, or diagonally) is the winner. When all nine squares are full, the game is over. The app version of the game was created using webintoapp.com website, which makes it easy to turn your web-based projects into mobile apps.
+Welcome to the "tic-tac-toe" GitHub repository! This project is a classic tic-tac-toe game created using HTML, CSS, and JavaScript. The game currently allows a player to take turns marking X and O on a 3x3 grid against computer. The first player to get three of their marks in a row (up, down, across, or diagonally) is the winner. When all nine squares are full, the game is over. The app version of the game was created using webintoapp.com website, which makes it easy to turn your web-based projects into mobile apps.
 <br>The game features:
 <ul>
   <li>Clean and responsive design for optimal viewing on all devices</li>
